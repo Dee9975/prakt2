@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matiss/CLionProjects/prakt 2/Business.cpp
+Business.h
+/home/matiss/CLionProjects/prakt 2/Business.h
+string
+-
+
+/home/matiss/CLionProjects/prakt 2/Business.h
+iostream
+-
+string
+-
+
+/home/matiss/CLionProjects/prakt 2/main.cpp
+iostream
+-
+string
+-
+bits/stdc++.h
+-
+Business.h
+/home/matiss/CLionProjects/prakt 2/Business.h
+

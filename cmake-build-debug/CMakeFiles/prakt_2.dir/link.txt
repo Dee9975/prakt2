@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/prakt_2.dir/main.cpp.o CMakeFiles/prakt_2.dir/Business.cpp.o  -o prakt_2 
